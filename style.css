@@ -1,0 +1,57 @@
+body{
+	background:#f8dda4;
+	background-color:fade;
+	color:green;
+	font-size: 24px;
+	font-family:Cambria;
+}
+h1{
+	font-family: Courier;
+	color: green;
+	font-weight: lighter;
+	font-size: 50px;
+}
+#header {
+	text-align: center;
+	background-image: url('images/welt.jpeg'); 
+	padding:150px;
+	background-size: cover;
+	color: white;
+	font-family: Cambria;
+
+}
+#card{
+	text-align: center;
+	background-image: url('images/waves.jpeg');
+	align-content: center;	
+	padding: 150px;
+	background-image: 
+}
+
+#signup{
+	font-size-adjust;
+	font-family: cambria;
+	font-size: 30px;
+	font-variant-position: 
+}
+#footer a:hover {
+  color: darkgrey;
+  font-size: 20px;
+  text-align:center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  background-color:#9dc3c2;
+}
+  
+}
+#card animation: {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  text-align: center;
+}
+
+
